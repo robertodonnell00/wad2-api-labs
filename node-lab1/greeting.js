@@ -3,7 +3,7 @@ const greeting = {
     fr: "Bonjour!",
     ga: 'Dia dhuit!',
     de: 'Hallo Welt!',
-    es: '¡Hola Mundo!',
+    es: '¡Hola Mundo!'
 };
 
 export default greeting;
